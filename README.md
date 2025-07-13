@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 | [1660-thousand-separator](https://github.com/RSaminathrao/LeetCode/tree/master/1660-thousand-separator) |
 ## Sorting
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
