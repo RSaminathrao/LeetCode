@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
+| [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1660-thousand-separator](https://github.com/RSaminathrao/LeetCode/tree/master/1660-thousand-separator) |
 ## Sorting
 |  |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
