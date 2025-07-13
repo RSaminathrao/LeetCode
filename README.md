@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/RSaminathrao/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
+| [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
+| [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -28,4 +30,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
