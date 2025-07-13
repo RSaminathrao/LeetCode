@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -35,10 +37,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
