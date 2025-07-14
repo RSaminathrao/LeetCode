@@ -13,6 +13,7 @@
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/RSaminathrao/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,5 @@
 |  |
 | ------- |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/RSaminathrao/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
