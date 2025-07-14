@@ -10,6 +10,7 @@
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RSaminathrao/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Simulation
 |  |
