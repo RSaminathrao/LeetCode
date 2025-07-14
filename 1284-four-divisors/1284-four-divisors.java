@@ -1,32 +1,29 @@
 class Solution {
     public int sumFourDivisors(int[] nums) {
-        int divfullsum=0;
+        int sum=0;
         for(int i:nums)
         {
-            int divcount=2;
-            int divsum=i+1;
-           for (int j = 2; j <= (int)Math.sqrt(i); j++) 
-           {
-            if (i % j == 0) 
+            int s=0;
+            int c=0;
+            for(int j=1;j<=(int)Math.sqrt(i);j++)
             {
-                if (j * j == i) 
+                if(i%j==0)
                 {
-                    divcount++;
-                    divsum += j;
-                }
-                else
-                 {
-                     divcount += 2;
-                     divsum += j + i / j;
+                    s=s+j;
+                    s=s+i/j;
+                    c+=2;
+                    if(i/j==j)
+                    {
+                        c--;
+                        s=s-i/j;
+                    }
                 }
             }
+            if(c==4)
+                {
+                    sum=sum+s;
+                }
         }
-
-        if(divcount==4)
-        {
-            divfullsum+=divsum;
-        }
-    }
-        return divfullsum;
+        return sum;
     }
 }
