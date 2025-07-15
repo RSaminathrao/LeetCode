@@ -30,6 +30,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1660-thousand-separator](https://github.com/RSaminathrao/LeetCode/tree/master/1660-thousand-separator) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RSaminathrao/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [3396-valid-word](https://github.com/RSaminathrao/LeetCode/tree/master/3396-valid-word) |
 ## Sorting
 |  |
 | ------- |
