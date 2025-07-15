@@ -29,6 +29,7 @@
 | [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1660-thousand-separator](https://github.com/RSaminathrao/LeetCode/tree/master/1660-thousand-separator) |
+| [1666-make-the-string-great](https://github.com/RSaminathrao/LeetCode/tree/master/1666-make-the-string-great) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RSaminathrao/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [3396-valid-word](https://github.com/RSaminathrao/LeetCode/tree/master/3396-valid-word) |
 ## Sorting
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+## Stack
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/RSaminathrao/LeetCode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
