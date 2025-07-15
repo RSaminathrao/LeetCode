@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+| [1448-maximum-69-number](https://github.com/RSaminathrao/LeetCode/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -67,6 +68,7 @@
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RSaminathrao/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/RSaminathrao/LeetCode/tree/master/1448-maximum-69-number) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
