@@ -8,6 +8,7 @@
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -71,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -134,10 +136,12 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 ## Divide and Conquer
 |  |
