@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RSaminathrao/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -94,6 +95,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Brainteaser
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
