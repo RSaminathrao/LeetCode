@@ -15,6 +15,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RSaminathrao/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -28,6 +29,7 @@
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bucket Sort
 |  |
@@ -72,6 +75,7 @@
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/RSaminathrao/LeetCode/tree/master/1448-maximum-69-number) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -91,10 +95,12 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
 | ------- |
