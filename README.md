@@ -158,8 +158,10 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0190-reverse-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
