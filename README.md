@@ -19,6 +19,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2836-neither-minimum-nor-maximum](https://github.com/RSaminathrao/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -57,6 +58,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2836-neither-minimum-nor-maximum](https://github.com/RSaminathrao/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Bucket Sort
 |  |
 | ------- |
