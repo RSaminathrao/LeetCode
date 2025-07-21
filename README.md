@@ -36,6 +36,7 @@
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RSaminathrao/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/RSaminathrao/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [1448-maximum-69-number](https://github.com/RSaminathrao/LeetCode/tree/master/1448-maximum-69-number) |
 | [2630-alternating-digit-sum](https://github.com/RSaminathrao/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/RSaminathrao/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
