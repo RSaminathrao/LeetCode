@@ -18,6 +18,7 @@
 | [0948-sort-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0948-sort-an-array) |
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
@@ -85,6 +86,7 @@
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RSaminathrao/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -114,6 +116,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
