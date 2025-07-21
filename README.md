@@ -16,6 +16,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RSaminathrao/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0948-sort-an-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/RSaminathrao/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -34,6 +35,7 @@
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/RSaminathrao/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RSaminathrao/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
