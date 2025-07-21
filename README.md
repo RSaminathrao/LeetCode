@@ -45,6 +45,7 @@
 | [0541-reverse-string-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RSaminathrao/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/RSaminathrao/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1660-thousand-separator](https://github.com/RSaminathrao/LeetCode/tree/master/1660-thousand-separator) |
