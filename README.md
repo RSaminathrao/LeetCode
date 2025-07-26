@@ -28,6 +28,7 @@
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/RSaminathrao/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RSaminathrao/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RSaminathrao/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/RSaminathrao/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RSaminathrao/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RSaminathrao/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
