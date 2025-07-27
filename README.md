@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/RSaminathrao/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -97,6 +98,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/RSaminathrao/LeetCode/tree/master/1448-maximum-69-number) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Brainteaser
