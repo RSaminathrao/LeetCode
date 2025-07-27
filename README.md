@@ -26,6 +26,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2836-neither-minimum-nor-maximum](https://github.com/RSaminathrao/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/RSaminathrao/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RSaminathrao/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/RSaminathrao/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
