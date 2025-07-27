@@ -9,7 +9,7 @@ bool judgeSquareSum(int c) {
 //   }
 //   return false;  
    
-    long long i = 0, j = floor(sqrt(c));
+    long long i = 0, j = sqrt(c);
     while (i <= j) {
         long long sum = i*i + j*j;
         if (sum == c) return true;
