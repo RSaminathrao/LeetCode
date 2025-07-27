@@ -121,6 +121,7 @@
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/RSaminathrao/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/RSaminathrao/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/RSaminathrao/LeetCode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
