@@ -18,6 +18,7 @@
 | [0948-sort-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RSaminathrao/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/RSaminathrao/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -168,6 +169,7 @@
 ## Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/RSaminathrao/LeetCode/tree/master/1666-make-the-string-great) |
 ## Matrix
 |  |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0948-sort-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
