@@ -94,6 +94,7 @@
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RSaminathrao/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -112,6 +113,7 @@
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
