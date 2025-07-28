@@ -15,6 +15,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/RSaminathrao/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/RSaminathrao/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RSaminathrao/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
