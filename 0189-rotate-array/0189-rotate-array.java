@@ -8,7 +8,7 @@ class Solution {
     }
     void reverse(int[] nums, int start, int end)
     {
-        while(start<end)
+        while(start<=end)
         {
             int c=nums[start];
             nums[start]=nums[end];
