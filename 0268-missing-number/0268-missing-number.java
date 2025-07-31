@@ -1,9 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int s=nums.length*(nums.length+1)/2;
-        for(int i: nums)
-            s=s-i;
-        return s;
+        int xor1=0,xor2=0;
+      for(int i=0;i<nums.length;i++)
+        {
+          xor1^=nums[i];
+          xor2^=i;
+        }
+      xor2^=nums.length;  
+      return xor1^xor2;
      
     }
 }
