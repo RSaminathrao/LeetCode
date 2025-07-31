@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RSaminathrao/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/RSaminathrao/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/RSaminathrao/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RSaminathrao/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/RSaminathrao/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/RSaminathrao/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RSaminathrao/LeetCode/tree/master/0455-assign-cookies) |
@@ -123,6 +126,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -220,6 +224,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Merge Sort
 |  |
@@ -236,6 +241,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Quickselect
 |  |
