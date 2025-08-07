@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Brainteaser
