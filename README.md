@@ -130,6 +130,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/RSaminathrao/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Merge Sort
@@ -255,4 +257,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
