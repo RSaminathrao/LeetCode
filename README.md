@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/RSaminathrao/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RSaminathrao/LeetCode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RSaminathrao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/RSaminathrao/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RSaminathrao/LeetCode/tree/master/0283-move-zeroes) |
