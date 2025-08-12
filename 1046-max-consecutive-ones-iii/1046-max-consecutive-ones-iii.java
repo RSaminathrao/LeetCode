@@ -1,5 +1,7 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
+        
+        //Approach it like longest subarray with atmost k zeros
         int l=0;
         int r=0;
         int c=0;
