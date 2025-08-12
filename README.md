@@ -29,6 +29,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RSaminathrao/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RSaminathrao/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/RSaminathrao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1284-four-divisors](https://github.com/RSaminathrao/LeetCode/tree/master/1284-four-divisors) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RSaminathrao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -196,6 +197,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/RSaminathrao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RSaminathrao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RSaminathrao/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/RSaminathrao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RSaminathrao/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RSaminathrao/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -264,6 +267,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/RSaminathrao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Quickselect
 |  |
 | ------- |
