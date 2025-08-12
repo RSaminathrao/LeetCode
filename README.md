@@ -82,6 +82,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RSaminathrao/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RSaminathrao/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RSaminathrao/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/RSaminathrao/LeetCode/tree/master/3396-valid-word) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RSaminathrao/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2836-neither-minimum-nor-maximum](https://github.com/RSaminathrao/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
