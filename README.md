@@ -182,6 +182,7 @@
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0338-counting-bits) |
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Brainteaser
@@ -249,6 +250,7 @@
 | [0190-reverse-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Merge Sort
 |  |
