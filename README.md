@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/RSaminathrao/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/RSaminathrao/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RSaminathrao/LeetCode/tree/master/0075-sort-colors) |
@@ -158,6 +159,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -223,6 +225,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
