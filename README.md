@@ -45,6 +45,7 @@
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2836-neither-minimum-nor-maximum](https://github.com/RSaminathrao/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/RSaminathrao/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/RSaminathrao/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RSaminathrao/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -260,6 +261,7 @@
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/RSaminathrao/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/RSaminathrao/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Merge Sort
 |  |
 | ------- |
