@@ -224,6 +224,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/RSaminathrao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/RSaminathrao/LeetCode/tree/master/1666-make-the-string-great) |
@@ -291,4 +292,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RSaminathrao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/RSaminathrao/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
