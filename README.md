@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSaminathrao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RSaminathrao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RSaminathrao/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/RSaminathrao/LeetCode/tree/master/1666-make-the-string-great) |
@@ -296,8 +297,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSaminathrao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RSaminathrao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RSaminathrao/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/RSaminathrao/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
