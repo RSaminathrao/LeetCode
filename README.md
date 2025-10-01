@@ -154,6 +154,7 @@
 | [1362-airplane-seat-assignment-probability](https://github.com/RSaminathrao/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RSaminathrao/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/RSaminathrao/LeetCode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/RSaminathrao/LeetCode/tree/master/1642-water-bottles) |
 | [2630-alternating-digit-sum](https://github.com/RSaminathrao/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/RSaminathrao/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -166,6 +167,7 @@
 | [0059-spiral-matrix-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/RSaminathrao/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1642-water-bottles](https://github.com/RSaminathrao/LeetCode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RSaminathrao/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RSaminathrao/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
