@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/RSaminathrao/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RSaminathrao/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
@@ -142,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/RSaminathrao/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
