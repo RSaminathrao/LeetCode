@@ -46,6 +46,7 @@
 | [2722-prime-in-diagonal](https://github.com/RSaminathrao/LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2836-neither-minimum-nor-maximum](https://github.com/RSaminathrao/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/RSaminathrao/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/RSaminathrao/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/RSaminathrao/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/RSaminathrao/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/RSaminathrao/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -89,6 +90,7 @@
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/RSaminathrao/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RSaminathrao/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/RSaminathrao/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/RSaminathrao/LeetCode/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RSaminathrao/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
