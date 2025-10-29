@@ -68,6 +68,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/RSaminathrao/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/RSaminathrao/LeetCode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RSaminathrao/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RSaminathrao/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/RSaminathrao/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/RSaminathrao/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/RSaminathrao/LeetCode/tree/master/3396-valid-word) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RSaminathrao/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/RSaminathrao/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RSaminathrao/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/RSaminathrao/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
