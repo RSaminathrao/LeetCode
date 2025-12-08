@@ -1,27 +1,30 @@
+//tuf approach 
+
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> ans=new ArrayList<>();
-        generate(candidates, 0, target, 0,new ArrayList<>(),ans);
+        generate(candidates,0,target,new ArrayList<>(),ans);
         return ans;
     }
-   void generate(int[] a, int index, int target, int s, List<Integer> container, List<List<Integer>> ans) 
-   {
-        if(index==a.length)        
+    void generate(int[] nums,int i,int target,List<Integer> l,List<List<Integer>> ans)
+    {
+        if(i==nums.length)
         {
-            if(s==target)    
-                ans.add(new ArrayList<>(container));
-            return;
+            if(target==0)
+                ans.add(new ArrayList<>(l));
+            return ;
         }
-        if (s > target) 
-            return;
-        if(a[index]<=target)
+
+        //pick
+        if(nums[i]<=target)
         {
-            container.add(a[index]);
-            s+=a[index];
-            generate(a, index, target, s, container, ans);
-            container.remove(Integer.valueOf(a[index]));
-            s-=a[index];
+            target-=nums[i];
+            l.add(nums[i]);
+            generate(nums,i,target,l,ans);
+
+            l.remove(l.size()-1);
+            target+=nums[i];
         }
-        generate(a, index+1, target, s, container, ans);
+        generate(nums,i+1,target,l,ans);
     }
 }
