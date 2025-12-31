@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RSaminathrao/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/RSaminathrao/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RSaminathrao/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RSaminathrao/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RSaminathrao/LeetCode/tree/master/0231-power-of-two) |
@@ -204,6 +205,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RSaminathrao/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/RSaminathrao/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/RSaminathrao/LeetCode/tree/master/0338-counting-bits) |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/RSaminathrao/LeetCode/tree/master/0039-combination-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RSaminathrao/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
