@@ -33,6 +33,7 @@
 | [0566-reshape-the-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/RSaminathrao/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/RSaminathrao/LeetCode/tree/master/0704-binary-search) |
 | [0948-sort-an-array](https://github.com/RSaminathrao/LeetCode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/RSaminathrao/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/RSaminathrao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -306,6 +307,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/RSaminathrao/LeetCode/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/RSaminathrao/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Quickselect
 |  |
