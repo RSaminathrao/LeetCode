@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/RSaminathrao/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RSaminathrao/LeetCode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/RSaminathrao/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RSaminathrao/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/RSaminathrao/LeetCode/tree/master/0164-maximum-gap) |
@@ -307,6 +308,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RSaminathrao/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RSaminathrao/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/RSaminathrao/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RSaminathrao/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/RSaminathrao/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/RSaminathrao/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/RSaminathrao/LeetCode/tree/master/0704-binary-search) |
